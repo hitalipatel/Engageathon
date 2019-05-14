@@ -1,0 +1,117 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.6ae3d223f7c65f291a2a.js",
+        "/polyfills.c6871e56cb80756a5498.js",
+        "/runtime.ec2944dd8b20ec099bf3.js",
+        "/scripts.968f55bfb751cd0febb2.js",
+        "/styles.f0df6014f8fecdfeaa03.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/Guns.png",
+        "/assets/icons/bronze.png",
+        "/assets/icons/bullying.png",
+        "/assets/icons/corporation.png",
+        "/assets/icons/createevent.png",
+        "/assets/icons/descriptionlist.png",
+        "/assets/icons/enterpreneuship.png",
+        "/assets/icons/gold.png",
+        "/assets/icons/government.png",
+        "/assets/icons/healthawerness.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/individuals.png",
+        "/assets/icons/logo.png",
+        "/assets/icons/organization.png",
+        "/assets/icons/profile.png",
+        "/assets/icons/school.png",
+        "/assets/icons/silver.png",
+        "/assets/icons/socials.png",
+        "/assets/icons/stem.png",
+        "/assets/icons/teach.png",
+        "/assets/icons/upload.png",
+        "/assets/icons/user.jpg",
+        "/assets/icons/voting.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/Guns.png": "a174a9b72e1f05cac32f6b2063eb96d9d93fbb7e",
+    "/assets/icons/bronze.png": "a4d1edd263bc2c5ebcfd94a0fa85d3b1e9e6cf6b",
+    "/assets/icons/bullying.png": "5747f53ff296880338e060a42f00e707c05fea58",
+    "/assets/icons/corporation.png": "51fd64a5d875cedaef727fe1b6ddcd123d89d682",
+    "/assets/icons/createevent.png": "a26b5bd24f27432fd8f4b7527043ddbb16dedd37",
+    "/assets/icons/descriptionlist.png": "4ec29cab8e0c1a05068144cc349e21af10b891fa",
+    "/assets/icons/enterpreneuship.png": "483a578c2472bba42b00ea2bf51b796200c73105",
+    "/assets/icons/gold.png": "7d814ec2b7e6ec828e596d5e141fbb2efc6cbb8d",
+    "/assets/icons/government.png": "716e71e014826cc50d69df75cd6e76041897753e",
+    "/assets/icons/healthawerness.png": "89314508edb649cdb186b5b3dda3720b180e7342",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/individuals.png": "3d5fc5f1f953ebbc4d0fa9ade0fa038a2f466506",
+    "/assets/icons/logo.png": "de50c28bf5af12d500d4308df0cfc387777ca027",
+    "/assets/icons/organization.png": "cf92199c69c4e4f06039a0eb2236b8e23a38c59b",
+    "/assets/icons/profile.png": "2e082518deab9092e5d20a0170adbed08a3e39ec",
+    "/assets/icons/school.png": "2c165c65a44bbc12979195c0188864bd0ca1e35a",
+    "/assets/icons/silver.png": "c81409beeaa8258bd837184570d7b258872961a2",
+    "/assets/icons/socials.png": "81a4d154a58f591709e3929b624b80a8c7657c26",
+    "/assets/icons/stem.png": "f68229f4a9ed024782e1f1ae2a5ff6eb22169a01",
+    "/assets/icons/teach.png": "e53bc121c6d89e5fc2d3d33baffc06f39a2c71b0",
+    "/assets/icons/upload.png": "0484f18eb1f9f07c0b7b40ac16ee5d08886e3c3d",
+    "/assets/icons/user.jpg": "d4d09b5515f273a9840edcf79316872ca31f452b",
+    "/assets/icons/voting.png": "e96f575606475dbf5e0e3021cf70d0aa7ca5710d",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "2ad033e33bab9d49556312289cc15ad48097cf06",
+    "/main.6ae3d223f7c65f291a2a.js": "054518fcd98b4887da62abb3b87ef66dc2e3da43",
+    "/polyfills.c6871e56cb80756a5498.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
+    "/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/scripts.968f55bfb751cd0febb2.js": "8cff919624f4590879d1564653ac7c73c135e960",
+    "/styles.f0df6014f8fecdfeaa03.css": "84d2b20cd22cdd5c35738c3503789a82ad48cf2a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
